@@ -1,0 +1,18 @@
+Find the largest of three numbers
+
+Input num1,num2,num3
+
+If num1 > num2 and num1 > num3
+   print num1 is largest
+
+IfElse num2 > num1 and num2 > num3
+   print num2 is largest
+
+Else 
+    print num3 is largest
+
+End If
+
+print "Largest number",Largest
+
+Result
