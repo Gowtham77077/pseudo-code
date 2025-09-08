@@ -1,0 +1,47 @@
+Input maths
+Input science
+Input social
+
+Set pass marks as 40
+
+If maths >= 40
+  print pass
+else
+  print fail
+
+If science >= 40
+  print pass
+else
+  print fail
+
+If social >= 40
+  print pass
+else
+  print fail
+
+End If  
+
+If maths < 40 or science < 40 or social < 40 then
+  print Overall Result Fail
+Else
+  print Overall Reslt Pass
+
+End If
+
+If maths > science and social
+  print maths is Highest
+
+Elseif science > maths and social
+   print science is Highest
+
+Else 
+   print social is Highest
+
+End If   
+
+
+
+
+
+
+  
