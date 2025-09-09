@@ -1,0 +1,20 @@
+Input Maths
+Input science
+Input English
+
+Average = (Maths + Science + English)/3
+
+Average = (Average marks : Average)
+
+If Average >= 75
+   Grade A 
+
+ElseIf Average >= 60 and Average < 75
+     Grade B
+
+ElseIf Average >= 40 and Average < 60
+    Grade c
+
+Else Grade Fail
+
+END If
