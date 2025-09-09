@@ -1,0 +1,31 @@
+Write pseudocode to check if a number is even or odd.
+
+Input number
+If number MOD 2 = 0 then
+   Print even
+Else
+    print odd
+End If 
+End
+
+
+The pseudocode to find the sum of all even numbers from 1 to N.
+
+Input N 
+Sum = 0
+For i = 1 to N DO
+If i MOD 2 = 0 THEN
+   sum = sum + i
+End If
+End For
+End
+
+Same Question
+
+Input Num 
+set Sum as 0
+For i between 2 to Num 
+  Sum = Sum + if
+   increment i with i + 2
+End For
+Display Sum      
